@@ -1,4 +1,4 @@
-<img src="https://computerwelt.at/wp-content/uploads/AdobeStock_245636896-2.jpeg" />
+<img src="https://computerwelt.at/wp-content/uploads/AdobeStock_245636896-2.jpeg" width="100%" />
 
 <h1>Cybersecurity</h1>
 P1. Risk management<br>
